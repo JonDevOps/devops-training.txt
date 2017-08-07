@@ -1,5 +1,5 @@
 # devops-training.txt
-A devops training guide. Courtesy of "Ssmythe" - Thank you!
+A devops training guide. Courtesy of "Steve smythe - (https://github.com/ssmythe)" - Thank you!
 
 ======
 Videos
